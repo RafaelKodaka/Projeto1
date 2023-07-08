@@ -1,7 +1,10 @@
+* {
+  margin: 0;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   text-align:center;
-  margin: 0;
 }
 
 #hero {
@@ -18,7 +21,7 @@ h1 {
   font-size: 49px;
   line-height: 56px;
   font-weight: normal;
-  margin: 0 0 32px;
+  margin-bottom: 32px;
 }
 
 h1 span {
@@ -33,7 +36,6 @@ p, #footer {
   color: #7d7987;
   font-size: 14px;
   line-height: 28px;
-  margin: 0;
 }
 
 #footer a + a {
